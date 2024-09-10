@@ -1,3 +1,7 @@
+## install dependencies
+
+`npm i`
+
 ## how to start the local server
 
 `npm start`
