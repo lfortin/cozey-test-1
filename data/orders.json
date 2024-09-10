@@ -16,8 +16,27 @@
     "address": "123 Maple st.",
     "customerName": "Jack Black",
     "customerEmail": "jack.black@example.com",
+    "items": ["7859e1e5-536a-4177-b723-50258f37cb0b"]
+  },
+  {
+    "id": 3,
+    "date": "2024-09-08T18:46:11.505Z",
+    "address": "1613 Fifth Ave.",
+    "customerName": "Lois Lane",
+    "customerEmail": "lois.lane@example.com",
     "items": [
-      "7859e1e5-536a-4177-b723-50258f37cb0b"
+      "a7cd4cf3-c081-4f65-ae8b-6ac4c16ed72d",
+      "b2d7e044-6ccf-432d-8aab-1459c325ebd7"
+    ]
+  },
+  {
+    "id": 4,
+    "date": "2024-09-09T18:46:11.505Z",
+    "address": "2613 Fifth Ave.",
+    "customerName": "Clark Kent",
+    "customerEmail": "clark.kent@example.com",
+    "items": [
+      "a7cd4cf3-c081-4f65-ae8b-6ac4c16ed72d"
     ]
   }
 ]
