@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "coverage": "nyc --reporter=lcov --reporter=text-summary mocha test/**/*.js",
     "start": "node ./bin/www",
     "test": "mocha test/**/*.js"
   },
@@ -16,6 +17,7 @@
     "morgan": "~1.9.1"
   },
   "devDependencies": {
-    "mocha": "^10.7.3"
+    "mocha": "^10.7.3",
+    "nyc": "^17.0.0"
   }
 }
