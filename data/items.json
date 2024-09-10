@@ -1,0 +1,30 @@
+[
+  {
+    "id": "7859e1e5-536a-4177-b723-50258f37cb0b",
+    "name": "Valentines Box",
+    "content": [
+      "1d0de7c2-cb59-430b-8944-c66f1b4bcd59",
+      "ba92a129-a67e-45c9-980a-852f1620f8c8",
+      "893bced3-5492-4006-acaf-1986f493d780",
+      "f6da67d9-0eb1-41d1-a82f-a838203e1908"
+    ]
+  },
+  {
+    "id": "a7cd4cf3-c081-4f65-ae8b-6ac4c16ed72d",
+    "name": "Birthday Box",
+    "content": [
+      "05093db1-b326-49b2-b538-4b47224f4fea",
+      "88ab60f9-038d-44af-b72c-54eac9bd9f2b",
+      "4418a674-cfa0-412b-b870-3aa903386263"
+    ]
+  },
+  {
+    "id": "a7cd4cf3-c081-4f65-ae8b-6ac4c16ed72d",
+    "name": "Client Gift Box",
+    "content": [
+      "3c8ca87d-0c3f-4a53-ba9b-e6ad832381ec",
+      "3e4019c9-91e9-438c-8f98-7860500afc03",
+      "2f0a92d6-33d9-4879-9f86-324a9e567de3"
+    ]
+  }
+]

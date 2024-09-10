@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "date": "2024-09-05T18:36:11.505Z",
+    "address": "123 Maple st.",
+    "customerName": "John Smith",
+    "customerEmail": "john.smith@example.com",
+    "items": [
+      "a7cd4cf3-c081-4f65-ae8b-6ac4c16ed72d",
+      "7859e1e5-536a-4177-b723-50258f37cb0b"
+    ]
+  },
+  {
+    "id": 2,
+    "date": "2024-09-05T18:46:11.505Z",
+    "address": "123 Maple st.",
+    "customerName": "Jack Black",
+    "customerEmail": "jack.black@example.com",
+    "items": [
+      "7859e1e5-536a-4177-b723-50258f37cb0b"
+    ]
+  }
+]
